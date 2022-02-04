@@ -20,6 +20,8 @@ Created a training set from the 2019 loans using `pd.get_dummies()` to convert t
 
 Created a LogisticRegression model, fit it to the data, and print the model's score. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
 
+![predictions](Images/predictions.PNG)
+
 ## Revisit the Preprocessing: Scale the data
 
 Use `StandardScaler` to scale the training and testing sets. Before re-fitting the LogisticRegression and RandomForestClassifier models on the scaled data, make another prediction about how you think scaling will affect the accuracy of the models. Write your predictions down and provide justification.
