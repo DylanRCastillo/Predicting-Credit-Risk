@@ -14,6 +14,8 @@ These two CSVs have been undersampled to give an even number of high risk and lo
 
 Created a training set from the 2019 loans using `pd.get_dummies()` to convert the categorical data to numeric columns. Similarly, create a testing set from the 2020 loans, also using `pd.get_dummies()`. 
 
+![preprocessing](Images/preprocessing.PNG)
+
 ## Fit a LogisticRegression model and RandomForestClassifier model
 
 Created a LogisticRegression model, fit it to the data, and print the model's score. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
