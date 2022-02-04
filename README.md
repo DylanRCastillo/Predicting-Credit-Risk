@@ -18,7 +18,7 @@ Created a training set from the 2019 loans using `pd.get_dummies()` to convert t
 
 ## Fit a LogisticRegression model and RandomForestClassifier model
 
-Created a LogisticRegression model, fit it to the data, and print the model's score. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
+Created a LogisticRegression model, fit it to the data, and print the model's score.
 
 ![predictions](Images/predictions.PNG)
 
